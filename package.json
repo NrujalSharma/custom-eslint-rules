@@ -15,5 +15,8 @@
     "rules"
   ],
   "author": "Nrujal Sharma",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
 }
