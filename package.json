@@ -1,0 +1,19 @@
+{
+  "name": "custom-eslint-rules",
+  "version": "1.0.0",
+  "description": "eslint rules, custom eslint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "custom",
+    "rules",
+    "custom",
+    "eslint",
+    "rules"
+  ],
+  "author": "Nrujal Sharma",
+  "license": "ISC"
+}
