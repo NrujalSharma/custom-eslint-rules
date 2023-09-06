@@ -4,6 +4,6 @@ const minCasesInSwitchRule = require("./lib/require-min-cases-in-switch");
 
 module.exports = {
   rules: {
-    minCasesInSwitch: minCasesInSwitchRule,
+    'min-cases-in-switch': minCasesInSwitchRule,
   },
 };
